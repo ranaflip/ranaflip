@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rana chandan isngh
+- 👀 I’m interested in Artificial intelligence and web development
+- 🌱 I’m undergrad at Manipal university jaipur
