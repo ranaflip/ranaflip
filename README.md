@@ -1,4 +1,4 @@
-![Header Image]([https://link-to-your-header-image](https://pin.it/3H6oMRDiD))
+![Header Image]([https://link-to-your-header-image](https://pin.it/3H6oMRDiD](https://imgur.com/a/HZ4cMO1](https://imgur.com/a/HZ4cMO1))
 
 Hello! I'm Rana Chandan Singh, a passionate and dedicated developer specializing in both front-end web development and iOS app development. With over two years of experience, I have honed my skills in creating visually appealing and user-friendly web interfaces as well as intuitive and responsive mobile applications.
 
