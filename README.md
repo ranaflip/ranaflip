@@ -5,11 +5,11 @@ Hi 👋, I'm Rana Chandan Singh</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaflip" alt="ranaflip" /></a> </p>
 
-- 🔭 I’m currently working on **Crop Disease**
+
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning (AI/ML) frameworks and courses.**
 
-- 💬 Ask me about **pp development for iOS, Android, and web platforms.**
+- 💬 Ask me about **App development for iOS, Android, and web platforms.**
 
 - 📫 How to reach me **ranachandan1682@gmail.com**
 
